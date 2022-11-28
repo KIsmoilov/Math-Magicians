@@ -101,7 +101,7 @@ Install this project with:
 
 2. Open the directory of the project
    ```sh
-   cd JS-Capstone-Project
+   cd math-magicians
    ```
 3. Open the directory of the src
    ```sh
