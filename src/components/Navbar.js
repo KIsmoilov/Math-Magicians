@@ -1,6 +1,6 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
-import '../App.css';
+import '../index.css';
 
 const Navbar = () => {
   const links = [
@@ -11,7 +11,7 @@ const Navbar = () => {
     },
     {
       id: 2,
-      path: '/about',
+      path: '/calculator',
       text: 'Calculator',
     },
     {
