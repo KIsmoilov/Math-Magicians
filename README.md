@@ -69,7 +69,7 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 Please use the following link to access the website:
-- [Live Demo Link](#)
+- [Live Demo Link](https://calculator-by-math-magicians.onrender.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
